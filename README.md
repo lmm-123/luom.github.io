@@ -7,7 +7,7 @@
 
 #  大二课程
 ## web2.0
-[move-review](https://chengwenwu.github.io/web2.0/123.png)<br>
+[move-review](https://chengwenwu.github.io/web2.0/movie_review/tmnt.html)<br>
 [grandma-s-pie](https://github.com/chengwenwu/grandma-s-pie)<br>
 # 大三课程
 [算法分析与设计](https://github.com/chengwenwu/algorithms-analysis-and-design)<br>
