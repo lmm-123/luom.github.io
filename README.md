@@ -1,9 +1,7 @@
 # <center> 欢迎来到个人主页 </center>
 
 #  大一课程
-## c++
-[栈的模板类](https://github.com/chengwenwu/MyStackTemplate)<br>
-[仓库管理系统（小项目）](https://github.com/chengwenwu/warehouse-management-system)<br>
+[仓库管理系统（小项目）](https://chengwenwu.github.io/warehouse-management-system)<br>
 
 #  大二课程
 [web2.0](https://chengwenwu.github.io/web2.0)
