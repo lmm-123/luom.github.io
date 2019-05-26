@@ -11,3 +11,4 @@
 [数字图像处理](https://github.com/chengwenwu/digital-image-process)<br>
 [机器学习](https://chengwenwu.github.io/ML/)<br>
 [系统分析与设计](https://chengwenwu.github.io/OOAD) <br>
+[深度学习入门](https://chengwenwu.github.io/DeepLearning)<br>
