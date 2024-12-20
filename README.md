@@ -1,4 +1,5 @@
 # <center> 欢迎来到罗明个人主页 </center>
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=8395201173512801868 skey=@crypt_e012933c_35eaba04d83a46c37457e8465be89ac8 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/82f7181a-9409-4622-a4f9-ad2592884405)
 
 #  个人介绍
 [大家好，我是罗明，一个热爱生活、追求卓越的普通人。在这个快速变化的世界里，我一直在寻找能够让我更好地理解世界、实现自我价值的方式。](https://chengwenwu.github.io/warehouse-management-system)<br>
