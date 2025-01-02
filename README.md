@@ -5,7 +5,7 @@
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=4472190633749205098 skey=@crypt_e012933c_35eaba04d83a46c37457e8465be89ac8 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/48bff2c8-49e9-43cb-8870-b7ff493c9b4a)
 
 #  个人博客
-[个人博客。（点击文字进入。）](https://chengwenwu.github.io/web2.0)](https://blog.csdn.net/luomingming888?type=blog)
+[个人博客。（点击文字进入。）](https://blog.csdn.net/luomingming888?type=blog)
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=8043085766091267986 skey=@crypt_e012933c_35eaba04d83a46c37457e8465be89ac8 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/b5b9e924-e70e-452a-bfae-17fc416223b4)
 
 # 个人技能
