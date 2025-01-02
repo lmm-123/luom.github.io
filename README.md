@@ -23,5 +23,6 @@
 # 个人生活
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=4523506001655273759 skey=@crypt_e012933c_dd9a636de43848bf92eda3b7c04ea601 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/698754b9-a58c-4172-85d2-a87996838720)
 ![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=4739062584633180820 skey=@crypt_e012933c_dd9a636de43848bf92eda3b7c04ea601 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/d9269179-afc5-403f-aa5b-600731677a97)
-![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=1320249750788379076 skey=@crypt_e012933c_dd9a636de43848bf92eda3b7c04ea601 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/244252a4-1551-4efa-bdd0-34853a212d07)
+![_cgi-bin_mmwebwx-bin_webwxgetmsgimg__ MsgID=4374289029300957286 skey=@crypt_e012933c_dd9a636de43848bf92eda3b7c04ea601 mmweb_appid=wx_webfilehelper](https://github.com/user-attachments/assets/2dae5405-2439-4846-b1f6-e990cf474533)
+
 
